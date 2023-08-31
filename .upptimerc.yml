@@ -6,11 +6,14 @@ sites:
   - name: Dianying100
     url: https://dianying100.xyz
 
+assignees: # Users to assign downtime issues (optional)
+  - AnandChowdhary
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.dianying100.xyz
-  # baseUrl: /your-repo-name
+  #cname: status.dianying100.xyz
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

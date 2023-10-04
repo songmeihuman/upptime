@@ -4,19 +4,20 @@
     "url": "https://dianying100.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dianying100.xyz.ico",
     "slug": "dianying100",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 818,
-    "timeWeek": 503,
-    "timeMonth": 313,
-    "timeYear": 296,
+    "status": "down",
+    "uptime": "97.83%",
+    "uptimeDay": "26.60%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.83%",
+    "time": 305,
+    "timeDay": 459,
+    "timeWeek": 530,
+    "timeMonth": 325,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-04": 32,
+      "2023-10-03": 1025
     }
   }
 ]

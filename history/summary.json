@@ -6,7 +6,7 @@
     "slug": "dianying100",
     "status": "down",
     "uptime": "31.82%",
-    "uptimeDay": "91.37%",
+    "uptimeDay": "90.75%",
     "uptimeWeek": "26.50%",
     "uptimeMonth": "7.48%",
     "uptimeYear": "31.82%",
@@ -16,7 +16,7 @@
     "timeMonth": 1666,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2023-12-19": 0,
+      "2023-12-19": 9,
       "2023-12-18": 125,
       "2023-12-17": 282,
       "2023-12-16": 1440,
